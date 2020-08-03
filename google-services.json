@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "269123590436",
+    "firebase_url": "https://globus-avtobus-7e58c.firebaseio.com",
+    "project_id": "globus-avtobus-7e58c",
+    "storage_bucket": "globus-avtobus-7e58c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269123590436:android:df678f419ae81398687bb1",
+        "android_client_info": {
+          "package_name": "mlife.glbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269123590436-uo8k9hlcb9c8362m9juafrsrm4j33b4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKF29Xg25BJaMqt7oBcGopNw0belVP2AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269123590436-uo8k9hlcb9c8362m9juafrsrm4j33b4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
